@@ -1,0 +1,10 @@
+{
+	"backend": {
+		"homepath": "http://localhost/php-server/"
+	},
+	"frontend": {
+		"appname": "Softbiz",
+		"homepath": "/",
+		"homepage": "http://softbiz.fun/"
+	}
+}
